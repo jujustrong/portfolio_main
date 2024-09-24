@@ -133,6 +133,9 @@ p {
    height: 100%;
 }
 
+#profile-card {
+   padding: 70px;
+}
 
 .card-body {
    font-family: Urbanist, sans-serif;
