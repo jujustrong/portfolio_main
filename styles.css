@@ -123,6 +123,10 @@ p {
    max-height: 50%;
 }
 
+.zorropic {
+   max-width: 100%;
+   max-height: 50%;
+}
 
 #card-pic {
    width: 100%;
