@@ -29,7 +29,7 @@
 }
 
 .welcome-section {
-   background-color: rgb(228, 235, 214);
+   background-color: #e4ebd6;
 }
 
 .nav-link {
@@ -42,6 +42,7 @@
 
 .pp-body {
    background-color: rgb(228, 235, 214);
+   font-family: Urbanist, sans-serif;
 }
 
 #header-img {
